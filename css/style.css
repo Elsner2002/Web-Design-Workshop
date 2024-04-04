@@ -83,7 +83,7 @@
   padding-bottom: 4%;
 }
 .hero h1::after {
-  content: "Name";
+  content: "Felipe Elsner Silva";
 }
 .hero p {
   font-weight: 300;
@@ -124,7 +124,7 @@ nav {
   text-transform: uppercase;
 }
 .navbar .navbar-brand::after {
-  content: "Name";
+  content: "Felipe Elsner Silva";
 }
 .navbar .items ul {
   list-style: none;
@@ -266,7 +266,7 @@ footer {
   align-items: center;
 }
 footer p::after {
-  content: "Name" " • Template by";
+  content: "Felipe Elsner Silva" " • Template by";
 }
 footer a {
   padding-left: 5px;
